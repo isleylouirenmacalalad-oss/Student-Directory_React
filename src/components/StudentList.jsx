@@ -1,0 +1,16 @@
+const StudentList = () => {
+    return (
+    <>
+
+            <section>
+                <h2>Student List</h2>
+                <div id="student-list">
+                <p id="empty-message">No students found. yer</p>
+                </div>
+            </section>
+    </>
+    )
+}
+
+export default StudentList;
+
