@@ -10,6 +10,10 @@ const FormContainer = () => {
                         <input type="text" id="studentName" name="studentName"></input>
                     </div>
                     <div>
+                        <label for="srcode">SR Code:</label>
+                        <input type="text" id="srcode" name="srcode"></input>
+                    </div>
+                    <div>
                         <label for="program">Program:</label>
                         <input type="text" id="program" name="program"></input>
                     </div>
